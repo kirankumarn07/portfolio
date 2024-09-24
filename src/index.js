@@ -7,4 +7,4 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
+//rendering all the components here

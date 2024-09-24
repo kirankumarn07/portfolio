@@ -29,7 +29,7 @@ body{
     background:#222A35;
   }
   
-  /* Handle */
+  
   ::-webkit-scrollbar-thumb {
     background: #575C66;
     border-radius: 6px;
