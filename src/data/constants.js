@@ -247,13 +247,13 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
     title: "Gmail-Clone",
     date: "Mar 2024 - MAY 2024",
     description:
       "Gmail-clone is application of exactly google mail like sent,compose and inbox all features in Gmail-clone",
     image:
-      "https://private-user-images.githubusercontent.com/139365579/366975362-29ab3ee9-27f3-404a-a327-25c711c20131.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYyNDY5MTMsIm5iZiI6MTcyNjI0NjYxMywicGF0aCI6Ii8xMzkzNjU1NzkvMzY2OTc1MzYyLTI5YWIzZWU5LTI3ZjMtNDA0YS1hMzI3LTI1YzcxMWMyMDEzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxM1QxNjU2NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYmY4Y2U0NWRhNmU4OTNhYzFhOTM2ZTRlNWU2MjkzYzIxODdkN2QyMjIxYzFjZjJkNzY0NmFjOGE1ZWE0MjA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.jfQkaDYj7e0w4LTPEBvysKGyY92rX7452jAWEBo4D-c",
+      "https://raw.githubusercontent.com/kirankumarn07/Gmail-clone-frontend/refs/heads/main/gmail.png",
     tags: [
       "javascript",
       "React Js",
@@ -275,36 +275,9 @@ export const projects = [
       },]
   },
   
+  
   {
     id: 1,
-    title: "DashBoard UI",
-    date: "Jan 2023",
-    description:
-      "Designed and developed the Dashboard UI",
-    image:
-      "https://private-user-images.githubusercontent.com/139365579/367152514-a16bcff4-f0da-4b6a-a900-595a96a673c1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYyMDMzODYsIm5iZiI6MTcyNjIwMzA4NiwicGF0aCI6Ii8xMzkzNjU1NzkvMzY3MTUyNTE0LWExNmJjZmY0LWYwZGEtNGI2YS1hOTAwLTU5NWE5NmE2NzNjMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxM1QwNDUxMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MmViNmYwNTE2OTg0YTFlZGVkNzc3MTU5ZDNkODkyZTE3OGRiNzgyOTQ4ZDQ2MWY2ZGE0MWQ0YzgzNWE1ZjNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.27ZlhB0Y33Pt5F2tP5Mw6BV1ocndEO6HfZNeRvxQ7ds",
-    tags: [
-      "React Js",
-      "Bootstrap",
-      "CSS",
-      "HTML",
-      "javascript",
-      "Redux",
-      "Material UI",
-    ],
-    category: "web app",
-    github: "https://github.com/kirankumarn07/Dashboard_UI",
-    webapp: "https://timely-muffin-534e3b.netlify.app/",
-    member: [
-      {
-        name: "Naga Kiran Kumar",
-        img: "https://avatars.githubusercontent.com/u/139365579?s=400&u=f4d0c0bca0390d452a60b4488d4d850547a327b6&v=4",
-        linkedin: "www.linkedin.com/in/nagakirankumar-nakkala-438936166",
-        github: "https://github.com/kirankumarn07",
-      },]
-  },
-  {
-    id: 9,
     title: "Nutrition Track",
     date: "june 2024 - june 2024",
     description:
@@ -332,7 +305,7 @@ export const projects = [
       },]
   },
   {
-    id: 9,
+    id: 2,
     title: "Ecommerce",
     date: "july 2024 - july 2024",
     description:
@@ -358,7 +331,63 @@ export const projects = [
         linkedin: "www.linkedin.com/in/nagakirankumar-nakkala-438936166",
         github: "https://github.com/kirankumarn07",
       },]
-    } 
+    },
+    {
+      id: 3,
+      title: "DashBoard UI",
+      date: "Jan 2023",
+      description:
+        "Designed and developed the Dashboard UI",
+      image:
+        "https://raw.githubusercontent.com/kirankumarn07/Dashboard_UI/refs/heads/main/Dashboard%20UI.png",
+      tags: [
+        "React Js",
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "javascript",
+        "Redux",
+        "Material UI",
+      ],
+      category: "web app",
+      github: "https://github.com/kirankumarn07/Dashboard_UI",
+      webapp: "https://timely-muffin-534e3b.netlify.app/",
+      member: [
+        {
+          name: "Naga Kiran Kumar",
+          img: "https://avatars.githubusercontent.com/u/139365579?s=400&u=f4d0c0bca0390d452a60b4488d4d850547a327b6&v=4",
+          linkedin: "www.linkedin.com/in/nagakirankumar-nakkala-438936166",
+          github: "https://github.com/kirankumarn07",
+        },]
+    },
+    {
+      id: 3,
+      title: "NOtes-App Redux",
+      date: "Jan 2023",
+      description:
+        "This is Notes APP using React-Redux Management",
+      image:
+        "https://raw.githubusercontent.com/kirankumarn07/Notes_app_redux/refs/heads/main/Noteapp.png",
+      tags: [
+        "React Js",
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "javascript",
+        "Redux",
+        "Material UI",
+      ],
+      category: "web app",
+      github: "https://github.com/kirankumarn07/Notes_app_redux",
+      webapp: "https://iridescent-jelly-c14813.netlify.app/",
+      member: [
+        {
+          name: "Naga Kiran Kumar",
+          img: "https://avatars.githubusercontent.com/u/139365579?s=400&u=f4d0c0bca0390d452a60b4488d4d850547a327b6&v=4",
+          linkedin: "www.linkedin.com/in/nagakirankumar-nakkala-438936166",
+          github: "https://github.com/kirankumarn07",
+        },]
+    }  
 ];
 
 export const TimeLineData = [

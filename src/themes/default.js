@@ -4,7 +4,7 @@ export default {
       title: "Space Grotesk, sans-serif",
       main: "Space Grotesk, sans-serif"
     },
-    // Colors for layout
+ 
     colors: {
       primary1: "#854CE6",
       background1: "#301934",
@@ -16,7 +16,7 @@ export default {
       text3: "#575C66",
       footerBackground: "#191970"
     },
-    // Breakpoints for responsive design
+    
     breakpoints: {
       sm: 'screen and (max-width: 640px)',
       md: 'screen and (max-width: 768px)',
