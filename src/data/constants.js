@@ -330,7 +330,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/kirankumarn07/Flight_Booking_Frontend",
-    webapp: "https://glittering-heliotrope-80f7b6.netlify.app/",
+    webapp: "https://flight-booking-frontend-7mmy.vercel.app/",
     member: [
       {
         name: "Naga Kiran Kumar",
