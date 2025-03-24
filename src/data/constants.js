@@ -196,9 +196,9 @@ export const experiences = [
   },{
     id: 2,
     img:"https://media.licdn.com/dms/image/v2/D560BAQHZy7Dsks7MBQ/company-logo_200_200/company-logo_200_200/0/1723193933892?e=1738195200&v=beta&t=qpOS0bCyaw2pFrLT4mQ5tSs6Q9aUosQN0i8AzMebMw0",
-    role: "Front-End Developer",
-    company: "9I WEB SOLUTIONS PRIVATE LIMITED",
-    date: "Dec 2023 - Present",
+    role: "Front-End Developer Freelancer",
+    company: "Tento Gaming App",
+    date: "aug 2024 - sep 2024",
     desc: "Working on the frontend of the web application using HTML,CSS,JavaScript,ReactJS, Redux, and Material UI.",
     skills: [
       "ReactJS",
